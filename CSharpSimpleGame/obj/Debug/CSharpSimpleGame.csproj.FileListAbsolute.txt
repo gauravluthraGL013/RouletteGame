@@ -1,0 +1,9 @@
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\bin\Debug\CSharpSimpleGame.exe.config
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\bin\Debug\CSharpSimpleGame.exe
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\bin\Debug\CSharpSimpleGame.pdb
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\obj\Debug\CSharpSimpleGame.Form1.resources
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\obj\Debug\CSharpSimpleGame.Properties.Resources.resources
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\obj\Debug\CSharpSimpleGame.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\obj\Debug\CSharpSimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\obj\Debug\CSharpSimpleGame.exe
+C:\Users\ahmad\source\repos\CSharpSimpleGame\CSharpSimpleGame\obj\Debug\CSharpSimpleGame.pdb
